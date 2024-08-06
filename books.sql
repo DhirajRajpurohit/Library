@@ -9,3 +9,5 @@ CREATE TABLE Books (
 
 INSERT INTO Books (Title, Author, Genre, YearPublished, Quantity)
 VALUES ('The Great Gatsby', 'F. Scott Fitzgerald', 'Fiction', 1925, 5);
+
+Select * from books;
